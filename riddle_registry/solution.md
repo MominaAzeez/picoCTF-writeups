@@ -25,11 +25,11 @@ Download the PDF file in Linux by wget https://challenge-files.picoctf.net/c_ami
 
 check the metadata of this PDF file by: exitfool confidential.pdf
 
-![Check Metadata](2026-02-27(2)png)
+![Check Metadata](cyber.png)
 
 This gives us the encoded text at the Author tag
 cGljb0NURntwdXp6bDNkX20zdGFkYXRhX2YwdW5kIV9jOTk5ZTJhNH0= and the = indicates that it is base64 encoded text.
 
 Decoding this text at CyberChef website by choosing From base64 then we get the flag
-![Final Flag](2026-02-27(3).png)
+![Final Flag](meta.png)
 
