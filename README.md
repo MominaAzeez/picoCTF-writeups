@@ -1,3 +1,2 @@
-# picoCTF-writeups
-
-This repository contains solutions and explanations for various picoCTF challenges I've solved.
+CyberConnect-SOC-Fellowship 🎓
+This repository is my personal log to record my learning and projects during the SOC Track Fellowship by CyberConnect.
